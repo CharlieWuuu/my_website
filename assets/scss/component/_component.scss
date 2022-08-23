@@ -1,0 +1,39 @@
+h1{
+  font-size: 52px;
+  font-weight: 700;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.section_title{
+  margin-bottom: 40px;
+}
+
+h4{
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+
+p, .p{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+
+.p_bold{
+  font-size: 16px;
+  font-weight: 700;
+}
+
+a{
+  color: $black;
+  text-decoration: none;
+}
+
+section{
+  padding: 80px 0;
+}
