@@ -1,0 +1,27 @@
+footer{
+  background-color: $grey_light;
+  width: 100%;
+  @extend %flex-center;
+  flex-direction: column;
+  padding: 32px 0;
+  gap: 20px;
+  .upper_container{
+    width: 90%;
+    @extend %flex-center;
+    justify-content: space-between;
+    .contact{
+      .contact_text{
+        margin: 4px 0;
+      }
+    }
+    ul{
+      li{
+        margin: 4px 0;
+        list-style-type: none;
+      }
+    }
+  }
+  #copyright{
+    color: $grey;
+  }
+}

@@ -1,0 +1,33 @@
+@keyframes float{
+  0%  {transform: translateY(4px);}
+  50% {transform: translateY(-4px);}
+  100%{transform: translateY(4px);}
+}
+
+@keyframes shake1{
+  0% {transform: scale(1);}
+  40%{transform: scale(1.2);}
+  50%{transform: scale(1.2) rotate(-10deg);}
+  60%{transform: scale(1.2) rotate(10deg);}
+  70%{transform: scale(1.2) rotate(-10deg);}
+  80%{transform: scale(1.2) rotate(10deg);}
+}
+
+#smile, #roundStick, #rectangle, #star, #hexagon, #star4, #triangle, #circle{
+  animation-name: float;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+    &:hover{
+    cursor: pointer;
+    animation: shake1 1s 1;
+    filter: drop-shadow(1px 1px 4px rgba(0,0,0,0.1));
+  }
+}
+
+#roundStick, #rectangle, #star{
+  animation-delay: -1s;
+}
+
+#hexagon, #star4, #triangle, #circle{
+  animation-delay: -2s;
+}
