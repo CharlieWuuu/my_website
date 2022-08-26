@@ -12,7 +12,7 @@ $(window).mousemove(function (evt) {
   const smileX = $('#smile').offset().left + smileWidth / 2;
   const smileY = $('#smile').offset().top + smileWidth / 2;
 
-  const img_url = 'assets/image/smile/';
+  const img_url = 'assets/image/index/smile/';
 
   //四方位
   //中間
