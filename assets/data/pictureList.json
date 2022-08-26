@@ -1,7 +1,7 @@
 [
   {
     "url": "https://charliewuuu.github.io/FantasyFilmFestival/1.%20%E9%A6%96%E9%A0%81/index.html",
-    "figmaUrl": "",
+    "figmaUrl": "https://www.figma.com/file/g9jON6L8dpkjFTKrOhawUo/%E5%B0%88%E9%A1%8C-mockup?node-id=0%3A1",
     "pic": "assets/image/work/cinema.jpg",
     "name": "金馬奇幻影展｜專題作品",
     "tag": [
@@ -11,7 +11,7 @@
       "UX",
       "「網頁設計與開發實務班」專題作品"
     ],
-    "description": "為「網頁設計與開發實務班」專題作品，藉此專題，我們走完完整的網站規劃流程：市場調查、SWAT分析、Wireframe、UI flow、MockUP到程式撰寫與發表。此網頁由我與組員二人完成，我主要負責網頁程式與書面資料的撰寫。<br><br>本網頁改良「台北金馬影展」的網頁，其原網站有一系列影展活動資訊，我們獨立取出其中的一項影展「金馬奇幻影展」為其製作活動網站。調整設計、製作視覺化的節目表、加入影展功能。 書面資料<a href='assets/data/金馬奇幻影展」網站設計__期末書面報告.pdf' target='_blank'>見此（另開視窗，為PDF檔）</a>。"
+    "description": "為「網頁設計與開發實務班」專題作品，藉此專題，我們走完完整的網站規劃流程：市場調查、SWAT分析、Wireframe、UI flow、MockUP到程式撰寫與發表。此網頁由我與組員二人完成，我主要負責網頁程式與書面資料的撰寫。<br><br>本網頁改良「台北金馬影展」的網頁，其原網站有一系列影展活動資訊，我們獨立取出其中的一項影展「金馬奇幻影展」為其製作活動網站。調整設計、製作視覺化的節目表、加入影展功能。 書面資料<a href='assets/data/金馬奇幻影展」網站設計__期末書面報告.pdf' target='_blank'>見此（另開視窗，為PDF檔）</a>。<br><br>Figma為組員繪製，一併附上作為參考。"
   },
   {
     "url": "https://charliewuuu.github.io/piano_tatsujin/",
@@ -43,7 +43,7 @@
       "Photoshop",
       "「動畫互動網頁程式」課程作品"
     ],
-    "description": "以「風景照月曆」發想，設計成搭配風景照的網頁天氣app。設計主要發想<a href='https://www.pinterest.com/pin/188517934393137364/'>自此</a>。網頁顯示使用者當地的此時天氣與未來5日天氣，可點擊地名查看其他縣市或鄉鎮的資料。<br><br>抓取使用者所在地天氣資料的部分，先以Geolocation取得使用者所處經緯度，取得後以政府open data的API得知應鄉鎮，再以到氣象局API提取資料。若無資料，將顯示預設值「臺北市信義區」。<br><br>數線則是以JS控制SVG產生，根據天氣資料調整數線高低。顯示時以未來5日的氣溫資料找出極端值、計算後得出級距，再帶入SVG線段中，避免數線超出範圍。"
+    "description": "網頁APP練習作品，以「風景照月曆」發想，設計成搭配風景照的網頁天氣app。設計主要發想<a href='https://www.pinterest.com/pin/188517934393137364/'>自此</a>。網頁顯示使用者當地的此時天氣與未來5日天氣，可點擊地名查看其他縣市或鄉鎮的資料。<br><br>抓取使用者所在地天氣資料的部分，先以Geolocation取得使用者所處經緯度，取得後以政府open data的API得知應鄉鎮，再以到氣象局API提取資料。若無資料，將顯示預設值「臺北市信義區」。<br><br>數線則是以JS控制SVG產生，根據天氣資料調整數線高低。顯示時以未來5日的氣溫資料找出極端值、計算後得出級距，再帶入SVG線段中，避免數線超出範圍。"
   },
   {
     "url": "https://charliewuuu.github.io/studio_website/",
@@ -58,7 +58,7 @@
       "Illustrator",
       "「動畫互動網頁程式」課程作品"
     ],
-    "description": "此作品設定為兩人工作室的網站，練習整個網頁的開發流程：規劃網站功能、繪出figma、設計插畫到實際撰寫。使用vue顯示作品集的資料，並引入masonry套件做瀑布流排版。"
+    "description": "一頁式網站練習作品。<br><br>此作品設定為兩人工作室的網站，練習整個網頁的開發流程，例如：規劃網站功能、繪出figma、設計插畫到實際撰寫。使用vue顯示作品集的資料，並引入masonry套件做瀑布流排版。"
   },
   {
     "url": "https://charliewuuu.github.io/bootstrap_blog/",
@@ -73,7 +73,7 @@
       "Chart.js",
       "「動畫互動網頁程式」課程作品"
     ],
-    "description": "Bootstrap排版練習，仿專題文章的風格，以「介紹前端框架」為主題。內容改寫自多篇網路文章，設計：以報導者專題文章為靈感排版，並以chart.js做出圓餅圖，方便呈現數據"
+    "description": "Bootstrap排版練習，仿專題文章的風格，以「介紹前端框架」為主題。<br><br>內容改寫自多篇網路文章，設計：以報導者專題文章為靈感排版，並以chart.js做出圓餅圖，方便呈現數據"
   },
   {
     "url": "",
@@ -81,7 +81,7 @@
     "pic": "assets/image/work/figma_1.png",
     "name": "旅遊APP｜Figma",
     "tag": ["Figma", "「網頁設計與開發實務班」課程作品"],
-    "description": "Figma作品"
+    "description": "為「網頁設計與開發實務班」課程的Figma作品。<br><br>以旅遊APP為例，練習app的版面設計、版面規格、頁面跳轉功能與規劃UI flow。"
   },
   {
     "url": "https://charliewuuu.github.io/buylist/",
@@ -89,7 +89,7 @@
     "pic": "assets/image/work/work_5.png",
     "name": "購物清單",
     "tag": ["HTML", "SCSS", "JavaScript", "「動畫互動網頁程式」課程作品"],
-    "description": "功能說明：<br>1.數量按鈕：參考電商網站的結帳項目設計，設計數量按鈕。點擊後數量、小計、總價會連動改變。<br>2.防呆功能：避免輸入無法計算的值，單價input輸入非數字、漏填會出現警示文字。"
+    "description": "JavaScript的練習作品。<br><br>功能說明：<br>1.數量按鈕：參考電商網站的結帳項目設計，設計數量按鈕。點擊後數量、小計、總價會連動改變。<br>2.防呆功能：避免輸入無法計算的值，單價input輸入非數字、漏填會出現警示文字。"
   },
   {
     "url": "https://charliewuuu.github.io/profile/",
@@ -97,7 +97,7 @@
     "pic": "assets/image/work/work_2.png",
     "name": "新擬態風格個人履歷",
     "tag": ["HTML", "SCSS", "「動畫互動網頁程式」課程作品"],
-    "description": "以新擬態風格（neumorphism）設計個人履歷網頁。設計主要發想<a href='https://codepen.io/myacode/pen/PoqQQNM'>自此</a>。"
+    "description": "CSS的練習作品，以新擬態風格（neumorphism）設計個人履歷網頁。<br><br>設計主要發想<a href='https://codepen.io/myacode/pen/PoqQQNM'>自此</a>。"
   },
   {
     "url": "https://charliewuuu.github.io/brand_color/",
@@ -105,7 +105,7 @@
     "pic": "assets/image/work/work_3.png",
     "name": "品牌用色觀察",
     "tag": ["HTML", "SCSS", "JavaScript", "「動畫互動網頁程式」課程作品"],
-    "description": "品牌用色觀察，以KKday為例。觀察後發現KKday的logo使用的青色可廣泛見於大部分文宣，常用在底色或作為邊框，成為主要的企業形象，而輔色也固定以黃色、紅色為主，黃色有時也作為背景使用，紅色比較多用來標示重點，整體用色頗一致。設計主要發想<a href='https://www.pinterest.com/pin/188517934393199355/'>自此</a>。</br>網站有做RWD，最下面按鈕有互動效果。"
+    "description": "此為配色作業，以KKday為例。<br><br>整體上以KKday的logo顏色為主，輔以網站上出現過的其他輔助色（黃色、紅色）。觀察後注意到整體用色活潑且在不同平台的產品上風格一致，我認為值得做為參考，故以此公司為題。<br><br>設計主要發想<a href='https://www.pinterest.com/pin/188517934393199355/'>自此</a>。網站有做RWD，最下面按鈕有互動效果。"
   },
   {
     "url": "https://charliewuuu.github.io/business_card/",
@@ -113,6 +113,6 @@
     "pic": "assets/image/work/work_1.png",
     "name": "幾何圖案名片",
     "tag": ["HTML", "CSS", "「動畫互動網頁程式」課程作品"],
-    "description": "CSS排版作品，練習幾何圖形繪製與排版。設計參考<a href='https://www.pinterest.com/pin/188517934392232217/'>自此</a>。"
+    "description": "CSS的練習作品，練習幾何圖形繪製與排版。<br><br>設計參考<a href='https://www.pinterest.com/pin/188517934392232217/'>自此</a>。"
   }
 ]
