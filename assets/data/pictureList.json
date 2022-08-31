@@ -61,6 +61,14 @@
     "description": "一頁式網站練習作品。<br><br>此作品設定為兩人工作室的網站，練習整個網頁的開發流程，例如：規劃網站功能、繪出figma、設計插畫到實際撰寫。使用vue顯示作品集的資料，並引入masonry套件做瀑布流排版。"
   },
   {
+    "url": "https://charliewuuu.github.io/taiwan_indigenous_villages/",
+    "figmaUrl": "",
+    "pic": "assets/image/work/tribe.png",
+    "name": "臺灣原住民部落分布地圖",
+    "tag": ["HTML", "CSS", "Leaflet", "OSM API"],
+    "description": "練習leaflet.js，底圖串接OSM API，引入政府open data的原住民部落分布資料，有用pop out、篩選、flyTo等功能。"
+  },
+  {
     "url": "https://charliewuuu.github.io/bootstrap_blog/",
     "figmaUrl": "",
     "pic": "assets/image/work/work_6.png",
@@ -74,6 +82,14 @@
       "「動畫互動網頁程式」課程作品"
     ],
     "description": "Bootstrap排版練習，仿專題文章的風格，以「介紹前端框架」為主題。<br><br>內容改寫自多篇網路文章，設計：以報導者專題文章為靈感排版，並以chart.js做出圓餅圖，方便呈現數據"
+  },
+  {
+    "url": "https://charliewuuu.github.io/nine_nine/",
+    "figmaUrl": "",
+    "pic": "assets/image/work/nine_nine.png",
+    "name": "九九乘法表",
+    "tag": ["HTML", "CSS", "jQuery"],
+    "description": "jQuery練習作品，除了用雙層for迴圈跑出九九乘法表之外，也做了驗收小遊戲，以隨機數字出題，。"
   },
   {
     "url": "",
