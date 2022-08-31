@@ -64,9 +64,9 @@
     "url": "https://charliewuuu.github.io/taiwan_indigenous_villages/",
     "figmaUrl": "",
     "pic": "assets/image/work/tribe.png",
-    "name": "臺灣原住民部落分布地圖",
+    "name": "臺灣原住民部落分布地圖｜Leaflet",
     "tag": ["HTML", "SCSS", "Leaflet", "OSM API"],
-    "description": "練習leaflet.js，底圖串接OSM API，引入政府open data的原住民部落分布資料，有用pop out、篩選、flyTo等功能。"
+    "description": "練習Leaflet，底圖串接OSM API，引入政府open data的原住民部落分布資料，有用pop out、篩選、flyTo等功能。"
   },
   {
     "url": "https://charliewuuu.github.io/bootstrap_blog/",
@@ -87,8 +87,8 @@
     "url": "https://charliewuuu.github.io/nine_nine/",
     "figmaUrl": "",
     "pic": "assets/image/work/nine_nine.png",
-    "name": "九九乘法表",
-    "tag": ["HTML", "SCSS", "jQuery"],
+    "name": "九九乘法表｜Javascript",
+    "tag": ["HTML", "SCSS", "JavaScript", "jQuery"],
     "description": "jQuery練習作品，除了用雙層for迴圈跑出九九乘法表之外，也做了驗收小遊戲，以隨機數字出題，。"
   },
   {
