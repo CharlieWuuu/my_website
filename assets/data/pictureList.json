@@ -65,7 +65,7 @@
     "figmaUrl": "",
     "pic": "assets/image/work/tribe.png",
     "name": "臺灣原住民部落分布地圖",
-    "tag": ["HTML", "CSS", "Leaflet", "OSM API"],
+    "tag": ["HTML", "SCSS", "Leaflet", "OSM API"],
     "description": "練習leaflet.js，底圖串接OSM API，引入政府open data的原住民部落分布資料，有用pop out、篩選、flyTo等功能。"
   },
   {
@@ -88,7 +88,7 @@
     "figmaUrl": "",
     "pic": "assets/image/work/nine_nine.png",
     "name": "九九乘法表",
-    "tag": ["HTML", "CSS", "jQuery"],
+    "tag": ["HTML", "SCSS", "jQuery"],
     "description": "jQuery練習作品，除了用雙層for迴圈跑出九九乘法表之外，也做了驗收小遊戲，以隨機數字出題，。"
   },
   {
